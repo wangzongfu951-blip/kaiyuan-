@@ -1,0 +1,1 @@
+import{L as a,E as n}from"./index-DjwehDR-.js";function f(o){const u=a(),e=n();function r(){var s;const t=(s=window.history.state)==null?void 0:s.back;if(typeof t=="string"&&t.length>0&&t!==u.fullPath&&!t.startsWith("/login")){e.back();return}e.replace(o)}return{safeBack:r}}export{f as u};

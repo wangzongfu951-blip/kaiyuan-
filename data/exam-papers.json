@@ -1,0 +1,398 @@
+{
+  "version": 1,
+  "total": 18,
+  "rows": [
+    {
+      "id": 1,
+      "title": "2024年国考行测真题（地市级）",
+      "exam_type": "国考",
+      "year": 2024,
+      "province": "",
+      "question_type": "逻辑填空",
+      "question_text": "在人工智能研究领域，深度学习技术近年来取得了______的进展，但距离真正的通用人工智能仍有很长的路要走。",
+      "options": [
+        "A. 突飞猛进",
+        "B. 一日千里",
+        "C. 日新月异",
+        "D. 蒸蒸日上"
+      ],
+      "answer": "B",
+      "answer_explanation": "一日千里形容进展极快。",
+      "related_idioms": [
+        "一日千里",
+        "突飞猛进"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": 2,
+      "title": "2024年国考行测（地市级）",
+      "exam_type": "国考",
+      "year": 2024,
+      "province": "",
+      "question_type": "逻辑填空",
+      "question_text": "传统手工艺的传承面临困境，许多技艺______，后继乏人。",
+      "options": [
+        "A. 濒临失传",
+        "B. 日渐式微",
+        "C. 岌岌可危",
+        "D. 危在旦夕"
+      ],
+      "answer": "A",
+      "answer_explanation": "濒临失传指技艺即将消失无人传承。",
+      "related_idioms": [
+        "濒临失传",
+        "日渐式微",
+        "后继无人"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": 11,
+      "title": "2024年广东省考行测",
+      "exam_type": "省考",
+      "year": 2024,
+      "province": "广东",
+      "question_type": "逻辑填空",
+      "question_text": "粤港澳大湾区建设不是______，需要久久为功。",
+      "options": [
+        "A. 一蹴而就",
+        "B. 一劳永逸",
+        "C. 一步登天",
+        "D. 一气呵成"
+      ],
+      "answer": "A",
+      "answer_explanation": "一蹴而就与久久为功形成对比。",
+      "related_idioms": [
+        "一蹴而就",
+        "久久为功"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": 12,
+      "title": "2024年浙江省考行测",
+      "exam_type": "省考",
+      "year": 2024,
+      "province": "浙江",
+      "question_type": "逻辑填空",
+      "question_text": "数字化改革需要______，既要做好顶层设计，又要注重基层探索。",
+      "options": [
+        "A. 标本兼治",
+        "B. 统筹兼顾",
+        "C. 双管齐下",
+        "D. 齐头并进"
+      ],
+      "answer": "B",
+      "answer_explanation": "统筹兼顾与既要...又要...完美匹配。",
+      "related_idioms": [
+        "统筹兼顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": 3,
+      "title": "2023年国考行测（副省级）",
+      "exam_type": "国考",
+      "year": 2023,
+      "province": "",
+      "question_type": "逻辑填空",
+      "question_text": "科学研究需要______的精神，不能浅尝辄止，更不能急功近利。",
+      "options": [
+        "A. 锱而不舍",
+        "B. 孜孜不倦",
+        "C. 皓首穷经",
+        "D. 废寝忘食"
+      ],
+      "answer": "B",
+      "answer_explanation": "孜孜不倦指勤奋努力不知疲倦。",
+      "related_idioms": [
+        "孜孜不倦",
+        "锱而不舍",
+        "浅尝辄止",
+        "急功近利"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": 4,
+      "title": "2023年国考行测（地市级）",
+      "exam_type": "国考",
+      "year": 2023,
+      "province": "",
+      "question_type": "逻辑填空",
+      "question_text": "在信息爆炸的时代，各种观点______，让人莫衷一是。",
+      "options": [
+        "A. 众说纷纭",
+        "B. 各抒己见",
+        "C. 莫衷一是",
+        "D. 见仁见智"
+      ],
+      "answer": "A",
+      "answer_explanation": "众说纷纭指各种说法很多且不一致。",
+      "related_idioms": [
+        "众说纷纭",
+        "莫衷一是",
+        "见仁见智"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": 13,
+      "title": "2023年山东省考行测",
+      "exam_type": "省考",
+      "year": 2023,
+      "province": "山东",
+      "question_type": "逻辑填空",
+      "question_text": "传统文化的创造性转化不能______，要赋予其新的时代内涵。",
+      "options": [
+        "A. 因循守旧",
+        "B. 抱残守缺",
+        "C. 食古不化",
+        "D. 固步自封"
+      ],
+      "answer": "C",
+      "answer_explanation": "食古不化与创造性转化形成对比。",
+      "related_idioms": [
+        "食古不化",
+        "因循守旧"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": 14,
+      "title": "2023年江苏省考行测（A类）",
+      "exam_type": "省考",
+      "year": 2023,
+      "province": "江苏",
+      "question_type": "逻辑填空",
+      "question_text": "面对复杂形势，既要保持战略定力，又要______，及时调整策略。",
+      "options": [
+        "A. 审时度势",
+        "B. 深谋远虑",
+        "C. 运筹帇幌",
+        "D. 随机应变"
+      ],
+      "answer": "A",
+      "answer_explanation": "审时度势与及时调整策略搭配最佳。",
+      "related_idioms": [
+        "审时度势"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": 5,
+      "title": "2022年国考行测（副省级）",
+      "exam_type": "国考",
+      "year": 2022,
+      "province": "",
+      "question_type": "逻辑填空",
+      "question_text": "数字经济的发展不是______，而是需要扎实的基础设施建设。",
+      "options": [
+        "A. 空中楼阁",
+        "B. 海市蜀楼",
+        "C. 无源之水",
+        "D. 一蹴而就"
+      ],
+      "answer": "D",
+      "answer_explanation": "一蹴而就与扎实基础建设形成对比。",
+      "related_idioms": [
+        "一蹴而就",
+        "空中楼阁"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": 6,
+      "title": "2022年国考行测（地市级）",
+      "exam_type": "国考",
+      "year": 2022,
+      "province": "",
+      "question_type": "逻辑填空",
+      "question_text": "乡村振兴不能______，各地应根据自身条件探索。",
+      "options": [
+        "A. 千篇一律",
+        "B. 照本宣科",
+        "C. 墨守成规",
+        "D. 生搬硬套"
+      ],
+      "answer": "D",
+      "answer_explanation": "生搬硬套与根据自身条件探索形成对比。",
+      "related_idioms": [
+        "生搬硬套",
+        "因地制宜"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": 15,
+      "title": "2022年四川省考行测",
+      "exam_type": "省考",
+      "year": 2022,
+      "province": "四川",
+      "question_type": "逻辑填空",
+      "question_text": "成渝经济圈建设要避免______，两地应互补共赢。",
+      "options": [
+        "A. 各自为政",
+        "B. 各行其是",
+        "C. 分道扬镳",
+        "D. 背道而驰"
+      ],
+      "answer": "A",
+      "answer_explanation": "各自为政与同质化竞争对应。",
+      "related_idioms": [
+        "各自为政"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": 7,
+      "title": "2021年国考行测（副省级）",
+      "exam_type": "国考",
+      "year": 2021,
+      "province": "",
+      "question_type": "逻辑填空",
+      "question_text": "中华文明源远流长，______，是中华民族独特的精神标识。",
+      "options": [
+        "A. 博大精深",
+        "B. 绵延不绝",
+        "C. 历久弥新",
+        "D. 兼容并蓄"
+      ],
+      "answer": "A",
+      "answer_explanation": "博大精深与源远流长并列描述中华文明。",
+      "related_idioms": [
+        "博大精深",
+        "源远流长"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": 8,
+      "title": "2021年国考行测（地市级）",
+      "exam_type": "国考",
+      "year": 2021,
+      "province": "",
+      "question_type": "逻辑填空",
+      "question_text": "基层干部工作千头万绪，既要______，又要脚踏实地。",
+      "options": [
+        "A. 高瞻远瞩",
+        "B. 统筹兼顾",
+        "C. 纲举目张",
+        "D. 提纲挈领"
+      ],
+      "answer": "B",
+      "answer_explanation": "统筹兼顾与千头万绪和脚踏实地形成对应。",
+      "related_idioms": [
+        "统筹兼顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": 16,
+      "title": "2021年浙江省考行测",
+      "exam_type": "省考",
+      "year": 2021,
+      "province": "浙江",
+      "question_type": "逻辑填空",
+      "question_text": "共同富裕不是______，而是一个长期的历史过程。",
+      "options": [
+        "A. 一蹴而就",
+        "B. 一劳永逸",
+        "C. 一步到位",
+        "D. 一帆顺风"
+      ],
+      "answer": "A",
+      "answer_explanation": "一蹴而就与长期历史过程形成对比。",
+      "related_idioms": [
+        "一蹴而就",
+        "循序渐进"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": 9,
+      "title": "2020年国考行测（副省级）",
+      "exam_type": "国考",
+      "year": 2020,
+      "province": "",
+      "question_type": "逻辑填空",
+      "question_text": "黄河文化具有______的历史底蕴，是中华民族的根和魂。",
+      "options": [
+        "A. 源远流长",
+        "B. 博大精深",
+        "C. 绵延不绝",
+        "D. 经久不衰"
+      ],
+      "answer": "A",
+      "answer_explanation": "源远流长与历史底蕴搭配最佳。",
+      "related_idioms": [
+        "源远流长"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": 10,
+      "title": "2020年国考行测（地市级）",
+      "exam_type": "国考",
+      "year": 2020,
+      "province": "",
+      "question_type": "逻辑填空",
+      "question_text": "医护人员______，不畏艰险，诠释了医者仁心。",
+      "options": [
+        "A. 前仆后继",
+        "B. 勇往直前",
+        "C. 视死如归",
+        "D. 义不容辞"
+      ],
+      "answer": "B",
+      "answer_explanation": "勇往直前与不畏艰险搭配恰当。",
+      "related_idioms": [
+        "勇往直前"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": 17,
+      "title": "2020年广东省考行测",
+      "exam_type": "省考",
+      "year": 2020,
+      "province": "广东",
+      "question_type": "逻辑填空",
+      "question_text": "改革开放不能______，必须大胆试、大胆闯。",
+      "options": [
+        "A. 畏葼不前",
+        "B. 裹足不前",
+        "C. 踔蹰不前",
+        "D. 望而却步"
+      ],
+      "answer": "B",
+      "answer_explanation": "裹足不前与大胆试大胆闯形成对比。",
+      "related_idioms": [
+        "裹足不前"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": 18,
+      "title": "2020年江苏省考行测（A类）",
+      "exam_type": "省考",
+      "year": 2020,
+      "province": "江苏",
+      "question_type": "逻辑填空",
+      "question_text": "长三角一体化要打破行政壁垒，不能______，各搞一套。",
+      "options": [
+        "A. 各自为政",
+        "B. 画地为牢",
+        "C. 闭门造车",
+        "D. 墨守成规"
+      ],
+      "answer": "B",
+      "answer_explanation": "画地为牢与打破行政壁垒对应。",
+      "related_idioms": [
+        "画地为牢"
+      ],
+      "difficulty": 4
+    }
+  ]
+}
