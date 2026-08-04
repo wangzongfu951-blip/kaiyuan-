@@ -1,0 +1,1505 @@
+[
+  {
+    "term_id": 1,
+    "hot_term": "“千万工程”经验",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 2,
+    "hot_term": "“五治融合”／智治",
+    "theme": "基层治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 3,
+    "hot_term": "百年未有之大变局",
+    "theme": "国际形势/战略判断",
+    "part_of_speech": "形势判断",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 4,
+    "hot_term": "保障性住房",
+    "theme": "住房与城市",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 5,
+    "hot_term": "产教融合",
+    "theme": "就业与教育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2025,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 6,
+    "hot_term": "产业链供应链韧性",
+    "theme": "产业安全/高质量发展",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 7,
+    "hot_term": "产业数字化",
+    "theme": "数字经济/产业升级",
+    "part_of_speech": "名词短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 8,
+    "hot_term": "常态化精准帮扶",
+    "theme": "乡村振兴",
+    "part_of_speech": "动宾短语",
+    "first_year": 2026,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 9,
+    "hot_term": "畅通国民经济循环",
+    "theme": "经济运行/新发展格局",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 10,
+    "hot_term": "城市更新",
+    "theme": "住房与城市",
+    "part_of_speech": "名词性短语",
+    "first_year": 2025,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 11,
+    "hot_term": "城乡联动",
+    "theme": "区域协调/乡村振兴",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 12,
+    "hot_term": "城乡融合发展",
+    "theme": "乡村振兴",
+    "part_of_speech": "动宾短语",
+    "first_year": 2018,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 13,
+    "hot_term": "城镇老旧小区改造",
+    "theme": "住房与城市",
+    "part_of_speech": "名词性短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 14,
+    "hot_term": "城中村改造",
+    "theme": "住房与城市",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 15,
+    "hot_term": "传统产业转型升级",
+    "theme": "产业升级/制造业",
+    "part_of_speech": "动宾短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 16,
+    "hot_term": "创新驱动",
+    "theme": "科技创新/经济发展",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2016,
+    "currentness": "2016—2020经典表述",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 17,
+    "hot_term": "大模型",
+    "theme": "人工智能",
+    "part_of_speech": "名词",
+    "first_year": 2025,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 18,
+    "hot_term": "党对“三农”工作的全面领导",
+    "theme": "党建",
+    "part_of_speech": "动宾短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 19,
+    "hot_term": "党建引领基层治理",
+    "theme": "党建",
+    "part_of_speech": "动宾短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 20,
+    "hot_term": "党员干部先锋模范作用",
+    "theme": "党建",
+    "part_of_speech": "名词性短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 21,
+    "hot_term": "党组织统一领导、各类组织协同、群众广泛参与",
+    "theme": "党建",
+    "part_of_speech": "并列复句",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 22,
+    "hot_term": "兜牢民生底线",
+    "theme": "民生保障",
+    "part_of_speech": "名词/固定表达",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 23,
+    "hot_term": "多层次社会保障体系",
+    "theme": "民生保障",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 24,
+    "hot_term": "法治思维和法治方式",
+    "theme": "法治",
+    "part_of_speech": "名词性短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 25,
+    "hot_term": "法治乡村／法治保障",
+    "theme": "法治",
+    "part_of_speech": "名词性短语",
+    "first_year": 2019,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 26,
+    "hot_term": "法治政府",
+    "theme": "法治",
+    "part_of_speech": "名词性短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 27,
+    "hot_term": "防止规模性返贫致贫",
+    "theme": "乡村振兴",
+    "part_of_speech": "动宾短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 28,
+    "hot_term": "房住不炒",
+    "theme": "住房与城市",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 29,
+    "hot_term": "放管服改革",
+    "theme": "政府治理/营商环境",
+    "part_of_speech": "政策短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 30,
+    "hot_term": "分级诊疗",
+    "theme": "公共卫生",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 31,
+    "hot_term": "高水平科技自立自强",
+    "theme": "科技创新/国家安全",
+    "part_of_speech": "名词短语",
+    "first_year": 2016,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 32,
+    "hot_term": "高质量充分就业",
+    "theme": "就业与教育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 33,
+    "hot_term": "高质量发展",
+    "theme": "政治治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 34,
+    "hot_term": "工业互联网",
+    "theme": "数字经济/新型工业化",
+    "part_of_speech": "名词短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 35,
+    "hot_term": "公共法律服务“最后一公里”",
+    "theme": "法治",
+    "part_of_speech": "名词性短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 36,
+    "hot_term": "公共文化服务体系",
+    "theme": "文化",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 37,
+    "hot_term": "共建共治共享社会治理制度",
+    "theme": "政治治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2019,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 38,
+    "hot_term": "共同富裕",
+    "theme": "政治治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 39,
+    "hot_term": "关键核心技术攻关",
+    "theme": "科技创新/产业安全",
+    "part_of_speech": "动宾短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 40,
+    "hot_term": "国家粮食安全",
+    "theme": "乡村与基层",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 41,
+    "hot_term": "国家治理体系和治理能力现代化",
+    "theme": "政治治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 42,
+    "hot_term": "国内大循环为主体、国内国际双循环相互促进",
+    "theme": "经济发展/开放",
+    "part_of_speech": "政策句式",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 43,
+    "hot_term": "回应关切",
+    "theme": "政府治理/民生",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 44,
+    "hot_term": "获得感幸福感安全感",
+    "theme": "民生保障",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 45,
+    "hot_term": "基本公共服务均等化",
+    "theme": "民生保障",
+    "part_of_speech": "名词/固定表达",
+    "first_year": 2017,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 46,
+    "hot_term": "基层党组织战斗堡垒作用",
+    "theme": "党建",
+    "part_of_speech": "名词性短语",
+    "first_year": 2019,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 47,
+    "hot_term": "基层党组织政治功能和组织功能",
+    "theme": "党建",
+    "part_of_speech": "名词性短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 48,
+    "hot_term": "基层减负／松绑减负",
+    "theme": "基层治理",
+    "part_of_speech": "动宾短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 49,
+    "hot_term": "基层是国家治理基石",
+    "theme": "政治治理",
+    "part_of_speech": "判断句/名词性短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 50,
+    "hot_term": "基层治理资源下沉",
+    "theme": "基层治理",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 51,
+    "hot_term": "疾控体系",
+    "theme": "公共卫生",
+    "part_of_speech": "名词性短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 52,
+    "hot_term": "坚持以人民为中心",
+    "theme": "政治治理",
+    "part_of_speech": "动宾短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 53,
+    "hot_term": "减税降费",
+    "theme": "宏观政策/营商环境",
+    "part_of_speech": "动宾短语",
+    "first_year": 2019,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 54,
+    "hot_term": "减污降碳协同增效",
+    "theme": "生态文明",
+    "part_of_speech": "动宾固定搭配",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 55,
+    "hot_term": "建设农业强国",
+    "theme": "乡村振兴",
+    "part_of_speech": "动宾短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 56,
+    "hot_term": "健康中国",
+    "theme": "公共卫生",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 57,
+    "hot_term": "降碳减污扩绿增长",
+    "theme": "生态治理/绿色发展",
+    "part_of_speech": "并列政策短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 58,
+    "hot_term": "教育数字化",
+    "theme": "就业与教育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 59,
+    "hot_term": "教育资源倾斜",
+    "theme": "教育公平/民生",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 60,
+    "hot_term": "京津冀协同发展",
+    "theme": "区域协调/城市群",
+    "part_of_speech": "专名短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 61,
+    "hot_term": "经济全球化遭遇逆流",
+    "theme": "开放发展/国际形势",
+    "part_of_speech": "形势判断",
+    "first_year": 2019,
+    "currentness": "2016—2020经典表述",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 62,
+    "hot_term": "净化修复政治生态",
+    "theme": "全面从严治党/监督",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 63,
+    "hot_term": "就业优先战略",
+    "theme": "就业与教育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 64,
+    "hot_term": "科技创新和产业创新融合",
+    "theme": "科技成果转化",
+    "part_of_speech": "动宾短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 65,
+    "hot_term": "科技金融",
+    "theme": "科技创新/金融支持",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 66,
+    "hot_term": "扩大内需",
+    "theme": "宏观经济/消费投资",
+    "part_of_speech": "动宾短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 67,
+    "hot_term": "历史耐心",
+    "theme": "改革发展/政策执行",
+    "part_of_speech": "名词性搭配",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 68,
+    "hot_term": "立德树人",
+    "theme": "就业与教育",
+    "part_of_speech": "动宾固定搭配",
+    "first_year": 2025,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 69,
+    "hot_term": "粮食安全党政同责／国家粮食安全底线",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 70,
+    "hot_term": "绿色低碳产业",
+    "theme": "绿色产业/产业升级",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 71,
+    "hot_term": "绿色低碳循环发展",
+    "theme": "生态文明",
+    "part_of_speech": "名词性短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 72,
+    "hot_term": "绿色金融",
+    "theme": "绿色发展/金融政策",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 73,
+    "hot_term": "绿色生产生活方式",
+    "theme": "生态文明/绿色消费",
+    "part_of_speech": "名词短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 74,
+    "hot_term": "矛盾纠纷多元预防调处化解",
+    "theme": "法治",
+    "part_of_speech": "偏正短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 75,
+    "hot_term": "美丽中国",
+    "theme": "生态文明",
+    "part_of_speech": "名词性短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 76,
+    "hot_term": "农村人居环境整治",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2018,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 77,
+    "hot_term": "农村一二三产业融合",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2016,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 78,
+    "hot_term": "农民主体地位／农民增收",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2016,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 79,
+    "hot_term": "农业供给侧结构性改革",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2016,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 80,
+    "hot_term": "农业科技和改革双轮驱动",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 81,
+    "hot_term": "农业农村现代化",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 82,
+    "hot_term": "农业增效益、农村增活力、农民增收入",
+    "theme": "乡村振兴",
+    "part_of_speech": "排比短语",
+    "first_year": 2025,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 83,
+    "hot_term": "平安乡村／平安建设",
+    "theme": "基层治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2019,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 84,
+    "hot_term": "平台经济规范健康发展",
+    "theme": "数字经济治理",
+    "part_of_speech": "政策短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 85,
+    "hot_term": "普惠养老服务供给",
+    "theme": "养老托育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 86,
+    "hot_term": "千万工程",
+    "theme": "乡村与基层",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 87,
+    "hot_term": "强基固本／夯实基层基础",
+    "theme": "党建",
+    "part_of_speech": "动宾短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 88,
+    "hot_term": "区域协调发展",
+    "theme": "区域协调/空间布局",
+    "part_of_speech": "名词短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 89,
+    "hot_term": "全国统一大市场",
+    "theme": "市场体系/营商环境",
+    "part_of_speech": "名词短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 90,
+    "hot_term": "全过程人民民主",
+    "theme": "政治治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 91,
+    "hot_term": "全面绿色转型",
+    "theme": "生态文明/绿色发展",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 92,
+    "hot_term": "权责明晰、机制精简高效、证明依规便民",
+    "theme": "基层治理",
+    "part_of_speech": "并列短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 93,
+    "hot_term": "人工智能+",
+    "theme": "人工智能/数字经济",
+    "part_of_speech": "政策行动短语",
+    "first_year": 2025,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 94,
+    "hot_term": "人工智能+制造",
+    "theme": "人工智能/制造业",
+    "part_of_speech": "政策行动短语",
+    "first_year": 2025,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 95,
+    "hot_term": "山水林田湖草沙一体化保护和系统治理",
+    "theme": "生态文明",
+    "part_of_speech": "名词性长语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 96,
+    "hot_term": "社会救助体系",
+    "theme": "民生保障",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 97,
+    "hot_term": "社区嵌入式服务设施",
+    "theme": "乡村与基层",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 98,
+    "hot_term": "生态宜居／绿色发展方式",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2017,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 99,
+    "hot_term": "树立和践行正确政绩观",
+    "theme": "干部作风/绩效治理",
+    "part_of_speech": "政策句式",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 100,
+    "hot_term": "数据要素",
+    "theme": "数字经济/数据治理",
+    "part_of_speech": "名词短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 101,
+    "hot_term": "数字产业集群",
+    "theme": "数字经济/产业集群",
+    "part_of_speech": "名词短语",
+    "first_year": 2025,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 102,
+    "hot_term": "数字化绿色化协同转型",
+    "theme": "数字经济/绿色转型",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 103,
+    "hot_term": "数字技术赋能",
+    "theme": "数字经济/治理现代化",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 104,
+    "hot_term": "数字经济",
+    "theme": "数字经济",
+    "part_of_speech": "名词短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 105,
+    "hot_term": "数字乡村",
+    "theme": "乡村与基层",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 106,
+    "hot_term": "数字政府",
+    "theme": "数字治理",
+    "part_of_speech": "名词短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 107,
+    "hot_term": "双碳",
+    "theme": "碳达峰碳中和/能源转型",
+    "part_of_speech": "简称名词",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 108,
+    "hot_term": "算力基础设施",
+    "theme": "数字基础设施/人工智能",
+    "part_of_speech": "名词短语",
+    "first_year": 2025,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 109,
+    "hot_term": "碳达峰碳中和",
+    "theme": "生态文明",
+    "part_of_speech": "名词性短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 110,
+    "hot_term": "统筹发展和安全",
+    "theme": "政治治理",
+    "part_of_speech": "动宾短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 111,
+    "hot_term": "托育服务体系",
+    "theme": "养老托育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 112,
+    "hot_term": "脱贫攻坚成果同乡村振兴有效衔接",
+    "theme": "乡村振兴",
+    "part_of_speech": "动宾短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 113,
+    "hot_term": "网格化管理、精细化服务、信息化支撑",
+    "theme": "基层治理",
+    "part_of_speech": "并列短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 114,
+    "hot_term": "未来产业",
+    "theme": "科技创新/产业前瞻布局",
+    "part_of_speech": "名词短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 115,
+    "hot_term": "文化数字化",
+    "theme": "文化",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 116,
+    "hot_term": "文旅融合",
+    "theme": "文化",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 117,
+    "hot_term": "稳就业保就业",
+    "theme": "就业与教育",
+    "part_of_speech": "动宾固定搭配",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 118,
+    "hot_term": "污染防治攻坚战",
+    "theme": "生态文明",
+    "part_of_speech": "名词性短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 119,
+    "hot_term": "五级书记抓乡村振兴",
+    "theme": "党建",
+    "part_of_speech": "动宾短语",
+    "first_year": 2019,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 120,
+    "hot_term": "先进制造业集群",
+    "theme": "产业集群/制造业",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 121,
+    "hot_term": "现代化产业体系",
+    "theme": "产业升级",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 122,
+    "hot_term": "乡村产业发展水平／产业振兴",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2018,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 123,
+    "hot_term": "乡村全面振兴",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 124,
+    "hot_term": "乡村治理有效",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2018,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 125,
+    "hot_term": "新发展格局/双循环",
+    "theme": "宏观经济/开放发展",
+    "part_of_speech": "名词短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 126,
+    "hot_term": "新发展理念",
+    "theme": "政治治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2018,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 127,
+    "hot_term": "新就业形态劳动者权益保障",
+    "theme": "就业与教育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 128,
+    "hot_term": "新时代“枫桥经验”",
+    "theme": "基层治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 129,
+    "hot_term": "新型工业化",
+    "theme": "制造强国/产业升级",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 130,
+    "hot_term": "新型基础设施",
+    "theme": "基础设施/数字经济",
+    "part_of_speech": "名词短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 131,
+    "hot_term": "新质生产力",
+    "theme": "高质量发展/科技创新",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 132,
+    "hot_term": "学前教育普惠发展",
+    "theme": "就业与教育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 133,
+    "hot_term": "循环经济",
+    "theme": "资源节约/生态文明",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 134,
+    "hot_term": "严格规范公正文明执法",
+    "theme": "法治",
+    "part_of_speech": "偏正短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 135,
+    "hot_term": "严肃问责",
+    "theme": "监督问责/作风建设",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 136,
+    "hot_term": "养老服务体系",
+    "theme": "养老托育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 137,
+    "hot_term": "一老一小",
+    "theme": "养老托育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 138,
+    "hot_term": "一网一格多功能",
+    "theme": "基层治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 139,
+    "hot_term": "医防融合",
+    "theme": "公共卫生",
+    "part_of_speech": "名词性短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 140,
+    "hot_term": "医养结合",
+    "theme": "养老托育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 141,
+    "hot_term": "依法行政",
+    "theme": "法治",
+    "part_of_speech": "动宾短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 142,
+    "hot_term": "宜居宜业和美乡村",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 143,
+    "hot_term": "义务教育优质均衡",
+    "theme": "就业与教育",
+    "part_of_speech": "名词性短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 144,
+    "hot_term": "议事协商、群众参与、村务公开",
+    "theme": "基层治理",
+    "part_of_speech": "并列短语",
+    "first_year": 2019,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 145,
+    "hot_term": "营商环境",
+    "theme": "营商环境/政府治理",
+    "part_of_speech": "名词短语",
+    "first_year": 2019,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 146,
+    "hot_term": "用法治给行政权力定规矩、划界限",
+    "theme": "法治",
+    "part_of_speech": "动宾短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 147,
+    "hot_term": "原始创新",
+    "theme": "基础研究/科技创新",
+    "part_of_speech": "名词短语",
+    "first_year": 2016,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 148,
+    "hot_term": "源头治理",
+    "theme": "基层治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 149,
+    "hot_term": "粤港澳大湾区",
+    "theme": "区域协调/开放发展",
+    "part_of_speech": "专名短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 150,
+    "hot_term": "增进民生福祉",
+    "theme": "民生保障",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 151,
+    "hot_term": "战略擘画",
+    "theme": "国家治理/发展规划",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 152,
+    "hot_term": "战略定力",
+    "theme": "战略执行/改革发展",
+    "part_of_speech": "名词性搭配",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 153,
+    "hot_term": "长江经济带",
+    "theme": "区域协调/生态文明",
+    "part_of_speech": "专名短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 154,
+    "hot_term": "政府治理同社会调节、居民自治良性互动",
+    "theme": "政治治理",
+    "part_of_speech": "主谓短语",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 155,
+    "hot_term": "制造业数字化转型",
+    "theme": "制造业/数字经济",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 156,
+    "hot_term": "治理效能",
+    "theme": "国家治理/基层治理",
+    "part_of_speech": "名词性搭配",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 157,
+    "hot_term": "质量强国",
+    "theme": "质量治理/制造业",
+    "part_of_speech": "名词短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 158,
+    "hot_term": "智能经济新形态",
+    "theme": "人工智能/数字经济",
+    "part_of_speech": "名词短语",
+    "first_year": 2026,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 159,
+    "hot_term": "智能网联新能源汽车",
+    "theme": "先进制造/绿色交通",
+    "part_of_speech": "名词短语",
+    "first_year": 2025,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 160,
+    "hot_term": "中国式现代化",
+    "theme": "政治治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2023,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 161,
+    "hot_term": "中国特色社会主义制度优势",
+    "theme": "政治治理",
+    "part_of_speech": "名词性短语",
+    "first_year": 2020,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 162,
+    "hot_term": "中华优秀传统文化传承保护",
+    "theme": "文化",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 163,
+    "hot_term": "筑牢理想信念根基",
+    "theme": "党建/思想建设",
+    "part_of_speech": "动词性搭配",
+    "first_year": 2021,
+    "currentness": "近五年重点",
+    "notes": "图片种子词：已关联权威来源，建议复习时二次定位原文。"
+  },
+  {
+    "term_id": 164,
+    "hot_term": "专精特新",
+    "theme": "中小企业/产业链",
+    "part_of_speech": "形容词性政策短语",
+    "first_year": 2024,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 165,
+    "hot_term": "自治、法治、德治“三治融合”",
+    "theme": "法治",
+    "part_of_speech": "名词性短语",
+    "first_year": 2019,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  },
+  {
+    "term_id": 166,
+    "hot_term": "租购并举",
+    "theme": "住房与城市",
+    "part_of_speech": "名词性短语",
+    "first_year": 2022,
+    "currentness": "近五年重点",
+    "notes": ""
+  },
+  {
+    "term_id": 167,
+    "hot_term": "组织振兴／人才支撑",
+    "theme": "乡村振兴",
+    "part_of_speech": "名词性短语",
+    "first_year": 2018,
+    "currentness": "2016—2020经典表述",
+    "notes": ""
+  }
+]

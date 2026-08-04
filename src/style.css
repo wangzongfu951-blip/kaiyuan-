@@ -1,0 +1,369 @@
+﻿@import "tailwindcss";
+
+@theme {
+  --color-bg: #F5F7FC;
+  --color-bg-card: #FFFFFF;
+  --color-cinnabar: #4D60D4;
+  --color-cinnabar-light: #6577E1;
+  --color-cinnabar-soft: #EEF1FF;
+  --color-amber: #F9A83D;
+  --color-amber-soft: #fff8eb;
+  --color-ink: #20283E;
+  --color-ink-title: #151C31;
+  --color-ink-body: #5F6981;
+  --color-ink-muted: #929BAF;
+  --color-warm-gray: #DFE4EF;
+  --color-warm-gray-light: #EEF1F7;
+  --color-jade: #2e7d6f;
+  --color-jade-soft: #e8f5f1;
+  --color-indigo: #3b5998;
+  --color-indigo-soft: #edf1f8;
+  --font-family-serif: "Noto Serif SC", "Source Han Serif SC", "SimSun", "KaiTi", serif;
+  --font-family-sans: "Noto Sans SC", "Source Han Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+}
+
+.dark {
+  --color-bg: #1a1a1a;
+  --color-bg-card: #2a2a2a;
+  --color-ink: #e5e5e5;
+  --color-ink-title: #f0f0f0;
+  --color-ink-body: #b3b3b3;
+  --color-ink-muted: #808080;
+  --color-warm-gray: #3a3a3a;
+  --color-warm-gray-light: #2a2a2a;
+  --color-cinnabar-soft: #3a2020;
+  --color-amber-soft: #3a3020;
+  --color-jade-soft: #203a30;
+  --color-indigo-soft: #202a3a;
+}
+
+html {
+  font-family: var(--font-family-sans);
+  background-color: var(--color-bg);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+body { margin: 0; min-height: 100dvh; }
+button, input, textarea, select { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button { cursor: pointer; }
+button:focus-visible, a:focus-visible, input:focus-visible {
+  outline: 3px solid rgba(77, 96, 212, 0.28);
+  outline-offset: 2px;
+}
+
+.font-serif { font-family: var(--font-family-serif); }
+.font-kai { font-family: "KaiTi", "STKaiti", serif; }
+
+::selection { background: var(--color-cinnabar-soft); color: var(--color-ink); }
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-thumb { background: #d5cfc3; border-radius: 2px; }
+.dark ::-webkit-scrollbar-thumb { background: #555; }
+
+@keyframes fade-up { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+.animate-fade-up { animation: fade-up 0.35s cubic-bezier(0.4,0,0.2,1) both; }
+.delay-1 { animation-delay: 0.05s; }
+.delay-2 { animation-delay: 0.1s; }
+.delay-3 { animation-delay: 0.15s; }
+
+@keyframes pulse { 0%,100% { opacity: 0.4; } 50% { opacity: 0.7; } }
+.skeleton { animation: pulse 1.5s ease-in-out infinite; }
+
+.fade-enter-active, .fade-leave-active { transition: opacity 0.2s ease, transform 0.2s ease; }
+.fade-enter-from { opacity: 0; transform: translateY(6px); }
+.fade-leave-to { opacity: 0; transform: translateY(-6px); }
+
+.pb-safe { padding-bottom: 4.5rem; }
+.line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+
+* {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ===== 丰富的动画系统 ===== */
+
+/* 1. 入场动画 - 从下方滑入 */
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-slide-up {
+  animation: slide-up 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* 2. 入场动画 - 从左侧滑入 */
+@keyframes slide-in-left {
+  from { opacity: 0; transform: translateX(-20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.animate-slide-left {
+  animation: slide-in-left 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* 3. 入场动画 - 从右侧滑入 */
+@keyframes slide-in-right {
+  from { opacity: 0; transform: translateX(20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.animate-slide-right {
+  animation: slide-in-right 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* 4. 缩放入场 */
+@keyframes scale-in {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+.animate-scale-in {
+  animation: scale-in 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* 5. 弹性缩放 */
+@keyframes bounce-in {
+  0% { opacity: 0; transform: scale(0.3); }
+  50% { opacity: 1; transform: scale(1.05); }
+  70% { transform: scale(0.95); }
+  100% { transform: scale(1); }
+}
+.animate-bounce-in {
+  animation: bounce-in 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) both;
+}
+
+/* 6. 淡入 */
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.animate-fade-in {
+  animation: fade-in 0.3s ease both;
+}
+
+/* 7. 旋转入场 */
+@keyframes spin-in {
+  from { opacity: 0; transform: rotate(-180deg) scale(0.5); }
+  to { opacity: 1; transform: rotate(0) scale(1); }
+}
+.animate-spin-in {
+  animation: spin-in 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* 8. 摇晃动画 */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-4px); }
+  20%, 40%, 60%, 80% { transform: translateX(4px); }
+}
+.animate-shake {
+  animation: shake 0.5s ease-in-out;
+}
+
+/* 9. 心跳动画 */
+@keyframes heartbeat {
+  0%, 100% { transform: scale(1); }
+  25% { transform: scale(1.1); }
+  50% { transform: scale(1); }
+  75% { transform: scale(1.05); }
+}
+.animate-heartbeat {
+  animation: heartbeat 1s ease-in-out infinite;
+}
+
+/* 10. 闪烁动画 */
+@keyframes twinkle {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.3; }
+}
+.animate-twinkle {
+  animation: twinkle 1.5s ease-in-out infinite;
+}
+
+/* 11. 浮动动画 */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* 12. 呼吸灯效果 */
+@keyframes breathe {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(178, 34, 34, 0.4); }
+  50% { box-shadow: 0 0 0 8px rgba(178, 34, 34, 0); }
+}
+.animate-breathe {
+  animation: breathe 2s ease-in-out infinite;
+}
+
+/* 13. 进度条加载 */
+@keyframes loading-bar {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+.animate-loading-bar::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+  animation: loading-bar 1.5s ease-in-out infinite;
+}
+
+/* 14. 打字机光标 */
+@keyframes cursor-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.animate-cursor::after {
+  content: '|';
+  animation: cursor-blink 1s step-end infinite;
+  color: var(--color-cinnabar);
+  font-weight: bold;
+}
+
+/* 15. 骨架屏闪入 */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.animate-shimmer {
+  background: linear-gradient(90deg, var(--color-warm-gray-light) 25%, var(--color-warm-gray) 50%, var(--color-warm-gray-light) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+}
+
+/* 交错动画延迟 - 用于列表 */
+.stagger-1 { animation-delay: 0.05s; }
+.stagger-2 { animation-delay: 0.1s; }
+.stagger-3 { animation-delay: 0.15s; }
+.stagger-4 { animation-delay: 0.2s; }
+.stagger-5 { animation-delay: 0.25s; }
+.stagger-6 { animation-delay: 0.3s; }
+.stagger-7 { animation-delay: 0.35s; }
+.stagger-8 { animation-delay: 0.4s; }
+.stagger-9 { animation-delay: 0.45s; }
+.stagger-10 { animation-delay: 0.5s; }
+
+/* 卡片悬浮效果 */
+.card-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+}
+.card-hover:active {
+  transform: translateY(0);
+}
+
+/* 按钮点击效果 */
+.btn-press {
+  transition: transform 0.1s ease;
+}
+.btn-press:active {
+  transform: scale(0.97);
+}
+
+/* 底部导航栏动画 */
+.tab-indicator {
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), width 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* 数字滚动动画辅助 */
+.number-change {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* 页面切换滑动动画 */
+.slide-enter-active, .slide-leave-active {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.slide-enter-from { opacity: 0; transform: translateX(30px); }
+.slide-leave-to { opacity: 0; transform: translateX(-30px); }
+
+/* 向上滑出 */
+.slide-up-enter-active, .slide-up-leave-active {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.slide-up-enter-from { opacity: 0; transform: translateY(20px); }
+.slide-up-leave-to { opacity: 0; transform: translateY(-20px); }
+
+/* 缩放过渡 */
+.scale-enter-active, .scale-leave-active {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.scale-enter-from, .scale-leave-to { opacity: 0; transform: scale(0.95); }
+
+/* 列表项交错入场 */
+@keyframes list-item-enter {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* 成语大字展示动画 */
+@keyframes idiom-reveal {
+  0% { opacity: 0; transform: scale(0.8); filter: blur(4px); }
+  100% { opacity: 1; transform: scale(1); filter: blur(0); }
+}
+.animate-idiom-reveal {
+  animation: idiom-reveal 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* 印章盖章效果 */
+@keyframes stamp {
+  0% { opacity: 0; transform: scale(2) rotate(-15deg); }
+  60% { opacity: 1; transform: scale(0.9) rotate(3deg); }
+  100% { opacity: 1; transform: scale(1) rotate(0deg); }
+}
+.animate-stamp {
+  animation: stamp 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) both;
+}
+
+/* 书卷展开效果 */
+@keyframes scroll-unroll {
+  0% { max-height: 0; opacity: 0; }
+  100% { max-height: 500px; opacity: 1; }
+}
+.animate-scroll-unroll {
+  animation: scroll-unroll 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+  overflow: hidden;
+}
+
+/* 朱砂红竖线生长动画 */
+@keyframes line-grow {
+  from { transform: scaleY(0); }
+  to { transform: scaleY(1); }
+}
+.animate-line-grow {
+  transform-origin: top;
+  animation: line-grow 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* 进度环动画 */
+@keyframes progress-ring {
+  from { stroke-dashoffset: 283; }
+}
+.animate-progress-ring {
+  animation: progress-ring 1s ease-out both;
+}
+
+/* 成就徽章解锁 */
+@keyframes badge-unlock {
+  0% { transform: scale(0) rotate(-180deg); }
+  60% { transform: scale(1.2) rotate(10deg); }
+  100% { transform: scale(1) rotate(0); }
+}
+.animate-badge-unlock {
+  animation: badge-unlock 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55) both;
+}

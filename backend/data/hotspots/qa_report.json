@@ -1,0 +1,16 @@
+{
+  "source_count": 89,
+  "hot_term_count": 167,
+  "collocation_count": 667,
+  "source_link_count": 1194,
+  "duplicate_record_ids": 0,
+  "missing_required": 0,
+  "out_of_range_years": 0,
+  "future_sources": 0,
+  "unresolved_source_links": 0,
+  "terms_with_lt2_collocations": 0,
+  "missing_context_or_sentence": 0,
+  "invalid_authority_levels": 0,
+  "invalid_source_dates": 0,
+  "pending_manual_seed_rows": 57
+}

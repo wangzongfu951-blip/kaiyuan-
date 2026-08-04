@@ -1,0 +1,1895 @@
+{
+  "version": 2,
+  "preset": "image",
+  "total": 66,
+  "generatedAt": "2026-08-04T10:54:10.995Z",
+  "rows": [
+    {
+      "id": "IMG01-01",
+      "hotTerm": "城乡联动",
+      "collocation": "城乡联动发展",
+      "theme": "区域协调/乡村振兴",
+      "meaning": "强调城市与乡村在规划、产业、基础设施、公共服务和要素配置上协同推进，不是城市单向带动乡村。",
+      "usageContext": "用于城乡融合、新型城镇化、乡村振兴和公共服务均等化的对策段；后接具体联动机制。",
+      "modelSentence": "以县域为重要切入点推动城乡联动，促进公共资源合理配置和要素双向流动。",
+      "examFunction": "提出对策/分析机制",
+      "commonErrors": "不宜单独作为口号，应说明联动对象和实现路径。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以县域为重要切入点推动城乡联动，促进公共资源合理配置和要素双向流动。",
+          "highlightTerm": "城乡联动",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG01-02",
+      "hotTerm": "城乡联动",
+      "collocation": "城乡融合联动",
+      "theme": "区域协调/乡村振兴",
+      "meaning": "强调城市与乡村在规划、产业、基础设施、公共服务和要素配置上协同推进，不是城市单向带动乡村。",
+      "usageContext": "用于城乡融合、新型城镇化、乡村振兴和公共服务均等化的对策段；后接具体联动机制。",
+      "modelSentence": "以县域为重要切入点推动城乡联动，促进公共资源合理配置和要素双向流动。",
+      "examFunction": "提出对策/分析机制",
+      "commonErrors": "不宜单独作为口号，应说明联动对象和实现路径。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以县域为重要切入点推动城乡联动，促进公共资源合理配置和要素双向流动。",
+          "highlightTerm": "城乡联动",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG01-03",
+      "hotTerm": "城乡联动",
+      "collocation": "城乡要素双向流动",
+      "theme": "区域协调/乡村振兴",
+      "meaning": "强调城市与乡村在规划、产业、基础设施、公共服务和要素配置上协同推进，不是城市单向带动乡村。",
+      "usageContext": "用于城乡融合、新型城镇化、乡村振兴和公共服务均等化的对策段；后接具体联动机制。",
+      "modelSentence": "以县域为重要切入点推动城乡联动，促进公共资源合理配置和要素双向流动。",
+      "examFunction": "提出对策/分析机制",
+      "commonErrors": "不宜单独作为口号，应说明联动对象和实现路径。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以县域为重要切入点推动城乡联动，促进公共资源合理配置和要素双向流动。",
+          "highlightTerm": "城乡联动",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG02-01",
+      "hotTerm": "战略擘画",
+      "collocation": "擘画发展蓝图",
+      "theme": "国家治理/发展规划",
+      "meaning": "“擘画”指谋划、设计宏伟蓝图，语体庄重，常用于中央重大部署和长期规划。",
+      "usageContext": "适合开头概括战略部署、结尾展望发展前景；不用于一般工作安排。",
+      "modelSentence": "党的二十届三中全会系统擘画进一步全面深化改革、推进中国式现代化的路线图。",
+      "examFunction": "总括背景/结尾升华",
+      "commonErrors": "“擘”读bò，不能写成“擘划”；不要与琐碎事项搭配。",
+      "sourceKeys": "IMG1",
+      "year": 2024,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "党的二十届三中全会系统擘画进一步全面深化改革、推进中国式现代化的路线图。",
+          "highlightTerm": "战略擘画",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG02-02",
+      "hotTerm": "战略擘画",
+      "collocation": "擘画现代化建设新篇章",
+      "theme": "国家治理/发展规划",
+      "meaning": "“擘画”指谋划、设计宏伟蓝图，语体庄重，常用于中央重大部署和长期规划。",
+      "usageContext": "适合开头概括战略部署、结尾展望发展前景；不用于一般工作安排。",
+      "modelSentence": "党的二十届三中全会系统擘画进一步全面深化改革、推进中国式现代化的路线图。",
+      "examFunction": "总括背景/结尾升华",
+      "commonErrors": "“擘”读bò，不能写成“擘划”；不要与琐碎事项搭配。",
+      "sourceKeys": "IMG1",
+      "year": 2024,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "党的二十届三中全会系统擘画进一步全面深化改革、推进中国式现代化的路线图。",
+          "highlightTerm": "战略擘画",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG02-03",
+      "hotTerm": "战略擘画",
+      "collocation": "系统擘画改革路径",
+      "theme": "国家治理/发展规划",
+      "meaning": "“擘画”指谋划、设计宏伟蓝图，语体庄重，常用于中央重大部署和长期规划。",
+      "usageContext": "适合开头概括战略部署、结尾展望发展前景；不用于一般工作安排。",
+      "modelSentence": "党的二十届三中全会系统擘画进一步全面深化改革、推进中国式现代化的路线图。",
+      "examFunction": "总括背景/结尾升华",
+      "commonErrors": "“擘”读bò，不能写成“擘划”；不要与琐碎事项搭配。",
+      "sourceKeys": "IMG1",
+      "year": 2024,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "党的二十届三中全会系统擘画进一步全面深化改革、推进中国式现代化的路线图。",
+          "highlightTerm": "战略擘画",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG03-01",
+      "hotTerm": "治理效能",
+      "collocation": "提升治理效能",
+      "theme": "国家治理/基层治理",
+      "meaning": "治理体系将制度、政策和资源转化为实际治理结果的效率、质量与群众满意度。",
+      "usageContext": "用于数字政府、基层治理、法治政府和制度建设，常与“治理体系和治理能力现代化”联用。",
+      "modelSentence": "完善权责清晰、协同高效的机制，把制度优势更好转化为基层治理效能。",
+      "examFunction": "评价成效/提出机制",
+      "commonErrors": "不能只写“提高效能”，应落到服务效率、执行闭环或群众体验。",
+      "sourceKeys": "IMG1",
+      "year": 2024,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "完善权责清晰、协同高效的机制，把制度优势更好转化为基层治理效能。",
+          "highlightTerm": "治理效能",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG03-02",
+      "hotTerm": "治理效能",
+      "collocation": "把制度优势转化为治理效能",
+      "theme": "国家治理/基层治理",
+      "meaning": "治理体系将制度、政策和资源转化为实际治理结果的效率、质量与群众满意度。",
+      "usageContext": "用于数字政府、基层治理、法治政府和制度建设，常与“治理体系和治理能力现代化”联用。",
+      "modelSentence": "完善权责清晰、协同高效的机制，把制度优势更好转化为基层治理效能。",
+      "examFunction": "评价成效/提出机制",
+      "commonErrors": "不能只写“提高效能”，应落到服务效率、执行闭环或群众体验。",
+      "sourceKeys": "IMG1",
+      "year": 2024,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "完善权责清晰、协同高效的机制，把制度优势更好转化为基层治理效能。",
+          "highlightTerm": "治理效能",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG03-03",
+      "hotTerm": "治理效能",
+      "collocation": "治理效能现代化",
+      "theme": "国家治理/基层治理",
+      "meaning": "治理体系将制度、政策和资源转化为实际治理结果的效率、质量与群众满意度。",
+      "usageContext": "用于数字政府、基层治理、法治政府和制度建设，常与“治理体系和治理能力现代化”联用。",
+      "modelSentence": "完善权责清晰、协同高效的机制，把制度优势更好转化为基层治理效能。",
+      "examFunction": "评价成效/提出机制",
+      "commonErrors": "不能只写“提高效能”，应落到服务效率、执行闭环或群众体验。",
+      "sourceKeys": "IMG1",
+      "year": 2024,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "完善权责清晰、协同高效的机制，把制度优势更好转化为基层治理效能。",
+          "highlightTerm": "治理效能",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG04-01",
+      "hotTerm": "教育资源倾斜",
+      "collocation": "教育资源向基层倾斜",
+      "theme": "教育公平/民生",
+      "meaning": "通过财政投入、师资配置、数字资源和办学条件改善，将更多优质教育资源配置到相对薄弱地区和群体。",
+      "usageContext": "用于教育公平、乡村振兴、公共服务均等化；强调精准倾斜而非平均分配。",
+      "modelSentence": "健全城乡教育共同体和教师交流机制，推动优质教育资源向农村和薄弱学校倾斜。",
+      "examFunction": "提出对策/体现公平",
+      "commonErrors": "“倾斜”对象要具体，避免写成无差别撒钱。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "健全城乡教育共同体和教师交流机制，推动优质教育资源向农村和薄弱学校倾斜。",
+          "highlightTerm": "教育资源倾斜",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG04-02",
+      "hotTerm": "教育资源倾斜",
+      "collocation": "向农村和薄弱地区倾斜",
+      "theme": "教育公平/民生",
+      "meaning": "通过财政投入、师资配置、数字资源和办学条件改善，将更多优质教育资源配置到相对薄弱地区和群体。",
+      "usageContext": "用于教育公平、乡村振兴、公共服务均等化；强调精准倾斜而非平均分配。",
+      "modelSentence": "健全城乡教育共同体和教师交流机制，推动优质教育资源向农村和薄弱学校倾斜。",
+      "examFunction": "提出对策/体现公平",
+      "commonErrors": "“倾斜”对象要具体，避免写成无差别撒钱。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "健全城乡教育共同体和教师交流机制，推动优质教育资源向农村和薄弱学校倾斜。",
+          "highlightTerm": "教育资源倾斜",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG04-03",
+      "hotTerm": "教育资源倾斜",
+      "collocation": "优质教育资源下沉",
+      "theme": "教育公平/民生",
+      "meaning": "通过财政投入、师资配置、数字资源和办学条件改善，将更多优质教育资源配置到相对薄弱地区和群体。",
+      "usageContext": "用于教育公平、乡村振兴、公共服务均等化；强调精准倾斜而非平均分配。",
+      "modelSentence": "健全城乡教育共同体和教师交流机制，推动优质教育资源向农村和薄弱学校倾斜。",
+      "examFunction": "提出对策/体现公平",
+      "commonErrors": "“倾斜”对象要具体，避免写成无差别撒钱。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "健全城乡教育共同体和教师交流机制，推动优质教育资源向农村和薄弱学校倾斜。",
+          "highlightTerm": "教育资源倾斜",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG05-01",
+      "hotTerm": "基层治理资源下沉",
+      "collocation": "治理资源下沉基层",
+      "theme": "基层治理",
+      "meaning": "将人员、资金、权限、技术和公共服务配置到基层一线，使基层有能力承接和解决问题。",
+      "usageContext": "用于基层减负增效、社区治理、乡村治理；常与“权责匹配、力量下沉”并列。",
+      "modelSentence": "推动编制、经费、技术和服务力量向基层下沉，确保基层接得住、管得好。",
+      "examFunction": "提出对策/解决执行梗阻",
+      "commonErrors": "资源下沉必须与权责下放、监督保障同步，不能只下任务。",
+      "sourceKeys": "IMG1；S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "推动编制、经费、技术和服务力量向基层下沉，确保基层接得住、管得好。",
+          "highlightTerm": "基层治理资源下沉",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        },
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "推动编制、经费、技术和服务力量向基层下沉，确保基层接得住、管得好。",
+          "highlightTerm": "基层治理资源下沉",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG05-02",
+      "hotTerm": "基层治理资源下沉",
+      "collocation": "人财物和服务力量下沉",
+      "theme": "基层治理",
+      "meaning": "将人员、资金、权限、技术和公共服务配置到基层一线，使基层有能力承接和解决问题。",
+      "usageContext": "用于基层减负增效、社区治理、乡村治理；常与“权责匹配、力量下沉”并列。",
+      "modelSentence": "推动编制、经费、技术和服务力量向基层下沉，确保基层接得住、管得好。",
+      "examFunction": "提出对策/解决执行梗阻",
+      "commonErrors": "资源下沉必须与权责下放、监督保障同步，不能只下任务。",
+      "sourceKeys": "IMG1；S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "推动编制、经费、技术和服务力量向基层下沉，确保基层接得住、管得好。",
+          "highlightTerm": "基层治理资源下沉",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        },
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "推动编制、经费、技术和服务力量向基层下沉，确保基层接得住、管得好。",
+          "highlightTerm": "基层治理资源下沉",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG05-03",
+      "hotTerm": "基层治理资源下沉",
+      "collocation": "重心下移、资源下沉",
+      "theme": "基层治理",
+      "meaning": "将人员、资金、权限、技术和公共服务配置到基层一线，使基层有能力承接和解决问题。",
+      "usageContext": "用于基层减负增效、社区治理、乡村治理；常与“权责匹配、力量下沉”并列。",
+      "modelSentence": "推动编制、经费、技术和服务力量向基层下沉，确保基层接得住、管得好。",
+      "examFunction": "提出对策/解决执行梗阻",
+      "commonErrors": "资源下沉必须与权责下放、监督保障同步，不能只下任务。",
+      "sourceKeys": "IMG1；S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "推动编制、经费、技术和服务力量向基层下沉，确保基层接得住、管得好。",
+          "highlightTerm": "基层治理资源下沉",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        },
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "推动编制、经费、技术和服务力量向基层下沉，确保基层接得住、管得好。",
+          "highlightTerm": "基层治理资源下沉",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG06-01",
+      "hotTerm": "国内大循环为主体、国内国际双循环相互促进",
+      "collocation": "加快构建新发展格局",
+      "theme": "经济发展/开放",
+      "meaning": "以国内需求和产业体系为主体，同时通过更高水平开放实现内外市场、产业链和创新链相互促进。",
+      "usageContext": "用于扩大内需、产业链安全、对外开放和高质量发展，不等于封闭运行。",
+      "modelSentence": "以扩大内需夯实国内大循环，同时以高水平开放促进国内国际双循环相互促进。",
+      "examFunction": "总论点/分析发展路径",
+      "commonErrors": "不要将“双循环”误解为内外割裂或只强调外贸。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以扩大内需夯实国内大循环，同时以高水平开放促进国内国际双循环相互促进。",
+          "highlightTerm": "国内大循环为主体、国内国际双循环相互促进",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG06-02",
+      "hotTerm": "国内大循环为主体、国内国际双循环相互促进",
+      "collocation": "畅通国内大循环",
+      "theme": "经济发展/开放",
+      "meaning": "以国内需求和产业体系为主体，同时通过更高水平开放实现内外市场、产业链和创新链相互促进。",
+      "usageContext": "用于扩大内需、产业链安全、对外开放和高质量发展，不等于封闭运行。",
+      "modelSentence": "以扩大内需夯实国内大循环，同时以高水平开放促进国内国际双循环相互促进。",
+      "examFunction": "总论点/分析发展路径",
+      "commonErrors": "不要将“双循环”误解为内外割裂或只强调外贸。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以扩大内需夯实国内大循环，同时以高水平开放促进国内国际双循环相互促进。",
+          "highlightTerm": "国内大循环为主体、国内国际双循环相互促进",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG06-03",
+      "hotTerm": "国内大循环为主体、国内国际双循环相互促进",
+      "collocation": "促进国内国际双循环",
+      "theme": "经济发展/开放",
+      "meaning": "以国内需求和产业体系为主体，同时通过更高水平开放实现内外市场、产业链和创新链相互促进。",
+      "usageContext": "用于扩大内需、产业链安全、对外开放和高质量发展，不等于封闭运行。",
+      "modelSentence": "以扩大内需夯实国内大循环，同时以高水平开放促进国内国际双循环相互促进。",
+      "examFunction": "总论点/分析发展路径",
+      "commonErrors": "不要将“双循环”误解为内外割裂或只强调外贸。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以扩大内需夯实国内大循环，同时以高水平开放促进国内国际双循环相互促进。",
+          "highlightTerm": "国内大循环为主体、国内国际双循环相互促进",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG07-01",
+      "hotTerm": "高质量发展",
+      "collocation": "推动高质量发展",
+      "theme": "经济发展/综合治理",
+      "meaning": "从规模速度优先转向质量效益、结构优化、创新驱动、绿色低碳和成果共享相统一的发展。",
+      "usageContext": "可作几乎所有经济社会题的总目标，但必须接具体领域和评价标准。",
+      "modelSentence": "坚持以高质量发展为主题，以科技创新、产业升级和民生改善提升发展含金量。",
+      "examFunction": "总论点/目标判断",
+      "commonErrors": "避免把“高质量”当形容词堆砌，要写质量、效率、动力变革。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "坚持以高质量发展为主题，以科技创新、产业升级和民生改善提升发展含金量。",
+          "highlightTerm": "高质量发展",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG07-02",
+      "hotTerm": "高质量发展",
+      "collocation": "以高质量发展为主题",
+      "theme": "经济发展/综合治理",
+      "meaning": "从规模速度优先转向质量效益、结构优化、创新驱动、绿色低碳和成果共享相统一的发展。",
+      "usageContext": "可作几乎所有经济社会题的总目标，但必须接具体领域和评价标准。",
+      "modelSentence": "坚持以高质量发展为主题，以科技创新、产业升级和民生改善提升发展含金量。",
+      "examFunction": "总论点/目标判断",
+      "commonErrors": "避免把“高质量”当形容词堆砌，要写质量、效率、动力变革。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "坚持以高质量发展为主题，以科技创新、产业升级和民生改善提升发展含金量。",
+          "highlightTerm": "高质量发展",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG07-03",
+      "hotTerm": "高质量发展",
+      "collocation": "高质量发展首要任务",
+      "theme": "经济发展/综合治理",
+      "meaning": "从规模速度优先转向质量效益、结构优化、创新驱动、绿色低碳和成果共享相统一的发展。",
+      "usageContext": "可作几乎所有经济社会题的总目标，但必须接具体领域和评价标准。",
+      "modelSentence": "坚持以高质量发展为主题，以科技创新、产业升级和民生改善提升发展含金量。",
+      "examFunction": "总论点/目标判断",
+      "commonErrors": "避免把“高质量”当形容词堆砌，要写质量、效率、动力变革。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "坚持以高质量发展为主题，以科技创新、产业升级和民生改善提升发展含金量。",
+          "highlightTerm": "高质量发展",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG08-01",
+      "hotTerm": "脱贫攻坚成果同乡村振兴有效衔接",
+      "collocation": "巩固拓展脱贫攻坚成果",
+      "theme": "乡村振兴/共同富裕",
+      "meaning": "脱贫后不搞政策断崖，通过产业、就业、教育、医疗、住房和组织帮扶把脱贫成果转化为持续发展能力。",
+      "usageContext": "用于乡村振兴、共同富裕和民生保障；强调机制衔接、工作衔接和政策衔接。",
+      "modelSentence": "完善监测帮扶和产业就业支持机制，推动脱贫攻坚成果同乡村振兴有效衔接。",
+      "examFunction": "提出对策/风险防范",
+      "commonErrors": "“衔接”不是简单延续原政策，要体现发展导向和分类帮扶。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "完善监测帮扶和产业就业支持机制，推动脱贫攻坚成果同乡村振兴有效衔接。",
+          "highlightTerm": "脱贫攻坚成果同乡村振兴有效衔接",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG08-02",
+      "hotTerm": "脱贫攻坚成果同乡村振兴有效衔接",
+      "collocation": "有效衔接、平稳过渡",
+      "theme": "乡村振兴/共同富裕",
+      "meaning": "脱贫后不搞政策断崖，通过产业、就业、教育、医疗、住房和组织帮扶把脱贫成果转化为持续发展能力。",
+      "usageContext": "用于乡村振兴、共同富裕和民生保障；强调机制衔接、工作衔接和政策衔接。",
+      "modelSentence": "完善监测帮扶和产业就业支持机制，推动脱贫攻坚成果同乡村振兴有效衔接。",
+      "examFunction": "提出对策/风险防范",
+      "commonErrors": "“衔接”不是简单延续原政策，要体现发展导向和分类帮扶。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "完善监测帮扶和产业就业支持机制，推动脱贫攻坚成果同乡村振兴有效衔接。",
+          "highlightTerm": "脱贫攻坚成果同乡村振兴有效衔接",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG08-03",
+      "hotTerm": "脱贫攻坚成果同乡村振兴有效衔接",
+      "collocation": "防止返贫致贫",
+      "theme": "乡村振兴/共同富裕",
+      "meaning": "脱贫后不搞政策断崖，通过产业、就业、教育、医疗、住房和组织帮扶把脱贫成果转化为持续发展能力。",
+      "usageContext": "用于乡村振兴、共同富裕和民生保障；强调机制衔接、工作衔接和政策衔接。",
+      "modelSentence": "完善监测帮扶和产业就业支持机制，推动脱贫攻坚成果同乡村振兴有效衔接。",
+      "examFunction": "提出对策/风险防范",
+      "commonErrors": "“衔接”不是简单延续原政策，要体现发展导向和分类帮扶。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "完善监测帮扶和产业就业支持机制，推动脱贫攻坚成果同乡村振兴有效衔接。",
+          "highlightTerm": "脱贫攻坚成果同乡村振兴有效衔接",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG09-01",
+      "hotTerm": "严肃问责",
+      "collocation": "依规依纪依法严肃问责",
+      "theme": "监督问责/作风建设",
+      "meaning": "对不履职、乱履职或造成严重后果的责任主体依规依纪依法追究责任，体现监督的刚性。",
+      "usageContext": "用于安全生产、生态环保、乡村振兴、营商环境和基层减负；需和责任清单、整改闭环配套。",
+      "modelSentence": "对敷衍塞责、弄虚作假、造成严重后果的行为依规依纪依法严肃问责。",
+      "examFunction": "提出监督措施/强化执行",
+      "commonErrors": "不能把问责当作唯一治理手段，应同时写教育、制度和容错。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "对敷衍塞责、弄虚作假、造成严重后果的行为依规依纪依法严肃问责。",
+          "highlightTerm": "严肃问责",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG09-02",
+      "hotTerm": "严肃问责",
+      "collocation": "失职失责严肃问责",
+      "theme": "监督问责/作风建设",
+      "meaning": "对不履职、乱履职或造成严重后果的责任主体依规依纪依法追究责任，体现监督的刚性。",
+      "usageContext": "用于安全生产、生态环保、乡村振兴、营商环境和基层减负；需和责任清单、整改闭环配套。",
+      "modelSentence": "对敷衍塞责、弄虚作假、造成严重后果的行为依规依纪依法严肃问责。",
+      "examFunction": "提出监督措施/强化执行",
+      "commonErrors": "不能把问责当作唯一治理手段，应同时写教育、制度和容错。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "对敷衍塞责、弄虚作假、造成严重后果的行为依规依纪依法严肃问责。",
+          "highlightTerm": "严肃问责",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG09-03",
+      "hotTerm": "严肃问责",
+      "collocation": "强化责任追究",
+      "theme": "监督问责/作风建设",
+      "meaning": "对不履职、乱履职或造成严重后果的责任主体依规依纪依法追究责任，体现监督的刚性。",
+      "usageContext": "用于安全生产、生态环保、乡村振兴、营商环境和基层减负；需和责任清单、整改闭环配套。",
+      "modelSentence": "对敷衍塞责、弄虚作假、造成严重后果的行为依规依纪依法严肃问责。",
+      "examFunction": "提出监督措施/强化执行",
+      "commonErrors": "不能把问责当作唯一治理手段，应同时写教育、制度和容错。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "对敷衍塞责、弄虚作假、造成严重后果的行为依规依纪依法严肃问责。",
+          "highlightTerm": "严肃问责",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG10-01",
+      "hotTerm": "回应关切",
+      "collocation": "及时回应社会关切",
+      "theme": "政府治理/民生",
+      "meaning": "对群众关心、社会关注或舆论聚焦的问题及时说明情况、解释政策并解决实际困难。",
+      "usageContext": "用于政务公开、公共沟通、风险舆情和民生政策；强调公开透明与实质解决。",
+      "modelSentence": "建立诉求收集、分析研判和反馈机制，及时回应群众关切并推动问题解决。",
+      "examFunction": "提出沟通机制/提升公信力",
+      "commonErrors": "回应不等于简单发声明，必须有事实、政策依据和后续行动。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "建立诉求收集、分析研判和反馈机制，及时回应群众关切并推动问题解决。",
+          "highlightTerm": "回应关切",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG10-02",
+      "hotTerm": "回应关切",
+      "collocation": "回应群众关切",
+      "theme": "政府治理/民生",
+      "meaning": "对群众关心、社会关注或舆论聚焦的问题及时说明情况、解释政策并解决实际困难。",
+      "usageContext": "用于政务公开、公共沟通、风险舆情和民生政策；强调公开透明与实质解决。",
+      "modelSentence": "建立诉求收集、分析研判和反馈机制，及时回应群众关切并推动问题解决。",
+      "examFunction": "提出沟通机制/提升公信力",
+      "commonErrors": "回应不等于简单发声明，必须有事实、政策依据和后续行动。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "建立诉求收集、分析研判和反馈机制，及时回应群众关切并推动问题解决。",
+          "highlightTerm": "回应关切",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG10-03",
+      "hotTerm": "回应关切",
+      "collocation": "主动回应舆论关切",
+      "theme": "政府治理/民生",
+      "meaning": "对群众关心、社会关注或舆论聚焦的问题及时说明情况、解释政策并解决实际困难。",
+      "usageContext": "用于政务公开、公共沟通、风险舆情和民生政策；强调公开透明与实质解决。",
+      "modelSentence": "建立诉求收集、分析研判和反馈机制，及时回应群众关切并推动问题解决。",
+      "examFunction": "提出沟通机制/提升公信力",
+      "commonErrors": "回应不等于简单发声明，必须有事实、政策依据和后续行动。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "建立诉求收集、分析研判和反馈机制，及时回应群众关切并推动问题解决。",
+          "highlightTerm": "回应关切",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG11-01",
+      "hotTerm": "增进民生福祉",
+      "collocation": "不断增进民生福祉",
+      "theme": "民生保障",
+      "meaning": "通过就业、收入、教育、医疗、养老等政策改善人民生活质量和发展条件。",
+      "usageContext": "用于民生题总目标、政策评价和结尾升华，后面要落到可感可及的事项。",
+      "modelSentence": "把增进民生福祉作为改革出发点和落脚点，让发展成果更多更公平惠及人民。",
+      "examFunction": "价值目标/结尾升华",
+      "commonErrors": "不能只写口号，宜补充“就业增收、服务均等、保障兜底”等路径。",
+      "sourceKeys": "IMG1",
+      "year": 2024,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "把增进民生福祉作为改革出发点和落脚点，让发展成果更多更公平惠及人民。",
+          "highlightTerm": "增进民生福祉",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG11-02",
+      "hotTerm": "增进民生福祉",
+      "collocation": "增进人民福祉",
+      "theme": "民生保障",
+      "meaning": "通过就业、收入、教育、医疗、养老等政策改善人民生活质量和发展条件。",
+      "usageContext": "用于民生题总目标、政策评价和结尾升华，后面要落到可感可及的事项。",
+      "modelSentence": "把增进民生福祉作为改革出发点和落脚点，让发展成果更多更公平惠及人民。",
+      "examFunction": "价值目标/结尾升华",
+      "commonErrors": "不能只写口号，宜补充“就业增收、服务均等、保障兜底”等路径。",
+      "sourceKeys": "IMG1",
+      "year": 2024,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "把增进民生福祉作为改革出发点和落脚点，让发展成果更多更公平惠及人民。",
+          "highlightTerm": "增进民生福祉",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG11-03",
+      "hotTerm": "增进民生福祉",
+      "collocation": "发展成果增进民生福祉",
+      "theme": "民生保障",
+      "meaning": "通过就业、收入、教育、医疗、养老等政策改善人民生活质量和发展条件。",
+      "usageContext": "用于民生题总目标、政策评价和结尾升华，后面要落到可感可及的事项。",
+      "modelSentence": "把增进民生福祉作为改革出发点和落脚点，让发展成果更多更公平惠及人民。",
+      "examFunction": "价值目标/结尾升华",
+      "commonErrors": "不能只写口号，宜补充“就业增收、服务均等、保障兜底”等路径。",
+      "sourceKeys": "IMG1",
+      "year": 2024,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG1",
+          "title": "中共中央 国务院关于进一步全面深化改革 推进中国式现代化的决定",
+          "organization": "中共中央、国务院（中国政府网）",
+          "date": "2024-07-21",
+          "url": "https://www.mee.gov.cn/zcwj/zyygwj/202407/t20240721_1082070.shtml",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "把增进民生福祉作为改革出发点和落脚点，让发展成果更多更公平惠及人民。",
+          "highlightTerm": "增进民生福祉",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG12-01",
+      "hotTerm": "统筹发展和安全",
+      "collocation": "统筹高质量发展和高水平安全",
+      "theme": "风险治理/综合治理",
+      "meaning": "把发展动力、发展质量与安全底线一体谋划，兼顾增长、民生、生态、粮食、金融和数据安全。",
+      "usageContext": "用于经济发展、基层治理、公共安全、粮食能源和数字治理，体现底线思维。",
+      "modelSentence": "在扩大内需、推动创新的同时统筹发展和安全，守牢不发生系统性风险底线。",
+      "examFunction": "分析原则/提出保障",
+      "commonErrors": "不要将安全写成泛化口号，应指出具体风险和预防机制。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "在扩大内需、推动创新的同时统筹发展和安全，守牢不发生系统性风险底线。",
+          "highlightTerm": "统筹发展和安全",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG12-02",
+      "hotTerm": "统筹发展和安全",
+      "collocation": "统筹发展和安全",
+      "theme": "风险治理/综合治理",
+      "meaning": "把发展动力、发展质量与安全底线一体谋划，兼顾增长、民生、生态、粮食、金融和数据安全。",
+      "usageContext": "用于经济发展、基层治理、公共安全、粮食能源和数字治理，体现底线思维。",
+      "modelSentence": "在扩大内需、推动创新的同时统筹发展和安全，守牢不发生系统性风险底线。",
+      "examFunction": "分析原则/提出保障",
+      "commonErrors": "不要将安全写成泛化口号，应指出具体风险和预防机制。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "在扩大内需、推动创新的同时统筹发展和安全，守牢不发生系统性风险底线。",
+          "highlightTerm": "统筹发展和安全",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG12-03",
+      "hotTerm": "统筹发展和安全",
+      "collocation": "防范化解重大风险",
+      "theme": "风险治理/综合治理",
+      "meaning": "把发展动力、发展质量与安全底线一体谋划，兼顾增长、民生、生态、粮食、金融和数据安全。",
+      "usageContext": "用于经济发展、基层治理、公共安全、粮食能源和数字治理，体现底线思维。",
+      "modelSentence": "在扩大内需、推动创新的同时统筹发展和安全，守牢不发生系统性风险底线。",
+      "examFunction": "分析原则/提出保障",
+      "commonErrors": "不要将安全写成泛化口号，应指出具体风险和预防机制。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "在扩大内需、推动创新的同时统筹发展和安全，守牢不发生系统性风险底线。",
+          "highlightTerm": "统筹发展和安全",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG13-01",
+      "hotTerm": "历史耐心",
+      "collocation": "保持历史耐心",
+      "theme": "改革发展/政策执行",
+      "meaning": "面对长期性、复杂性任务保持定力，尊重规律、持续投入，不因短期波动频繁摇摆。",
+      "usageContext": "用于生态治理、乡村振兴、教育改革、科技创新和基层治理的长期主义表达。",
+      "modelSentence": "推进生态修复和乡村建设要保持历史耐心，尊重发展规律，持续用力、久久为功。",
+      "examFunction": "分析原则/防止急功近利",
+      "commonErrors": "历史耐心不等于拖延，仍要有阶段目标和可评估的行动。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "推进生态修复和乡村建设要保持历史耐心，尊重发展规律，持续用力、久久为功。",
+          "highlightTerm": "历史耐心",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG13-02",
+      "hotTerm": "历史耐心",
+      "collocation": "增强战略定力和历史耐心",
+      "theme": "改革发展/政策执行",
+      "meaning": "面对长期性、复杂性任务保持定力，尊重规律、持续投入，不因短期波动频繁摇摆。",
+      "usageContext": "用于生态治理、乡村振兴、教育改革、科技创新和基层治理的长期主义表达。",
+      "modelSentence": "推进生态修复和乡村建设要保持历史耐心，尊重发展规律，持续用力、久久为功。",
+      "examFunction": "分析原则/防止急功近利",
+      "commonErrors": "历史耐心不等于拖延，仍要有阶段目标和可评估的行动。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "推进生态修复和乡村建设要保持历史耐心，尊重发展规律，持续用力、久久为功。",
+          "highlightTerm": "历史耐心",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG13-03",
+      "hotTerm": "历史耐心",
+      "collocation": "久久为功",
+      "theme": "改革发展/政策执行",
+      "meaning": "面对长期性、复杂性任务保持定力，尊重规律、持续投入，不因短期波动频繁摇摆。",
+      "usageContext": "用于生态治理、乡村振兴、教育改革、科技创新和基层治理的长期主义表达。",
+      "modelSentence": "推进生态修复和乡村建设要保持历史耐心，尊重发展规律，持续用力、久久为功。",
+      "examFunction": "分析原则/防止急功近利",
+      "commonErrors": "历史耐心不等于拖延，仍要有阶段目标和可评估的行动。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "推进生态修复和乡村建设要保持历史耐心，尊重发展规律，持续用力、久久为功。",
+          "highlightTerm": "历史耐心",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG14-01",
+      "hotTerm": "战略定力",
+      "collocation": "保持战略定力",
+      "theme": "战略执行/改革发展",
+      "meaning": "在复杂形势和短期压力下坚持正确方向、目标和基本政策不动摇，同时根据实际优化方法。",
+      "usageContext": "用于改革开放、科技创新、绿色转型和风险应对的总括性论述。",
+      "modelSentence": "面对外部环境变化，既要保持战略定力，又要提升政策的精准性和协同性。",
+      "examFunction": "分析形势/提出原则",
+      "commonErrors": "战略定力不是僵化不变，要与实事求是、与时俱进并用。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "面对外部环境变化，既要保持战略定力，又要提升政策的精准性和协同性。",
+          "highlightTerm": "战略定力",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG14-02",
+      "hotTerm": "战略定力",
+      "collocation": "增强战略定力",
+      "theme": "战略执行/改革发展",
+      "meaning": "在复杂形势和短期压力下坚持正确方向、目标和基本政策不动摇，同时根据实际优化方法。",
+      "usageContext": "用于改革开放、科技创新、绿色转型和风险应对的总括性论述。",
+      "modelSentence": "面对外部环境变化，既要保持战略定力，又要提升政策的精准性和协同性。",
+      "examFunction": "分析形势/提出原则",
+      "commonErrors": "战略定力不是僵化不变，要与实事求是、与时俱进并用。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "面对外部环境变化，既要保持战略定力，又要提升政策的精准性和协同性。",
+          "highlightTerm": "战略定力",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG14-03",
+      "hotTerm": "战略定力",
+      "collocation": "坚定战略自信",
+      "theme": "战略执行/改革发展",
+      "meaning": "在复杂形势和短期压力下坚持正确方向、目标和基本政策不动摇，同时根据实际优化方法。",
+      "usageContext": "用于改革开放、科技创新、绿色转型和风险应对的总括性论述。",
+      "modelSentence": "面对外部环境变化，既要保持战略定力，又要提升政策的精准性和协同性。",
+      "examFunction": "分析形势/提出原则",
+      "commonErrors": "战略定力不是僵化不变，要与实事求是、与时俱进并用。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "面对外部环境变化，既要保持战略定力，又要提升政策的精准性和协同性。",
+          "highlightTerm": "战略定力",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG15-01",
+      "hotTerm": "经济全球化遭遇逆流",
+      "collocation": "经济全球化遭遇逆流",
+      "theme": "开放发展/国际形势",
+      "meaning": "指保护主义、单边主义和地缘冲突等因素使全球开放合作受阻，强调坚持开放合作的必要性。",
+      "usageContext": "用于国际形势分析、扩大开放、产业链供应链和人类命运共同体论证。",
+      "modelSentence": "面对经济全球化遭遇逆流，应以高水平开放促进互利共赢，维护全球产业链供应链稳定。",
+      "examFunction": "分析背景/提出对策",
+      "commonErrors": "不宜把“逆流”写成全球化终结，应强调合作仍是主流和方向。",
+      "sourceKeys": "E27",
+      "year": 2019,
+      "sourceEvidence": [
+        {
+          "sourceKey": "E27",
+          "title": "政府工作报告（2019年全文）",
+          "organization": "国务院（新华社，中国政府网发布）",
+          "date": "2019-03-17",
+          "url": "https://app.www.gov.cn/govdata/gov/201903/17/436689/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "面对经济全球化遭遇逆流，应以高水平开放促进互利共赢，维护全球产业链供应链稳定。",
+          "highlightTerm": "经济全球化遭遇逆流",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG15-02",
+      "hotTerm": "经济全球化遭遇逆流",
+      "collocation": "应对逆全球化挑战",
+      "theme": "开放发展/国际形势",
+      "meaning": "指保护主义、单边主义和地缘冲突等因素使全球开放合作受阻，强调坚持开放合作的必要性。",
+      "usageContext": "用于国际形势分析、扩大开放、产业链供应链和人类命运共同体论证。",
+      "modelSentence": "面对经济全球化遭遇逆流，应以高水平开放促进互利共赢，维护全球产业链供应链稳定。",
+      "examFunction": "分析背景/提出对策",
+      "commonErrors": "不宜把“逆流”写成全球化终结，应强调合作仍是主流和方向。",
+      "sourceKeys": "E27",
+      "year": 2019,
+      "sourceEvidence": [
+        {
+          "sourceKey": "E27",
+          "title": "政府工作报告（2019年全文）",
+          "organization": "国务院（新华社，中国政府网发布）",
+          "date": "2019-03-17",
+          "url": "https://app.www.gov.cn/govdata/gov/201903/17/436689/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "面对经济全球化遭遇逆流，应以高水平开放促进互利共赢，维护全球产业链供应链稳定。",
+          "highlightTerm": "经济全球化遭遇逆流",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG15-03",
+      "hotTerm": "经济全球化遭遇逆流",
+      "collocation": "推动经济全球化健康发展",
+      "theme": "开放发展/国际形势",
+      "meaning": "指保护主义、单边主义和地缘冲突等因素使全球开放合作受阻，强调坚持开放合作的必要性。",
+      "usageContext": "用于国际形势分析、扩大开放、产业链供应链和人类命运共同体论证。",
+      "modelSentence": "面对经济全球化遭遇逆流，应以高水平开放促进互利共赢，维护全球产业链供应链稳定。",
+      "examFunction": "分析背景/提出对策",
+      "commonErrors": "不宜把“逆流”写成全球化终结，应强调合作仍是主流和方向。",
+      "sourceKeys": "E27",
+      "year": 2019,
+      "sourceEvidence": [
+        {
+          "sourceKey": "E27",
+          "title": "政府工作报告（2019年全文）",
+          "organization": "国务院（新华社，中国政府网发布）",
+          "date": "2019-03-17",
+          "url": "https://app.www.gov.cn/govdata/gov/201903/17/436689/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "面对经济全球化遭遇逆流，应以高水平开放促进互利共赢，维护全球产业链供应链稳定。",
+          "highlightTerm": "经济全球化遭遇逆流",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG16-01",
+      "hotTerm": "百年未有之大变局",
+      "collocation": "世界百年未有之大变局加速演进",
+      "theme": "国际形势/战略判断",
+      "meaning": "概括国际力量对比、科技革命、全球治理和风险格局深刻变化的长期历史背景。",
+      "usageContext": "用于申论开头形势判断和战略选择；后接中国行动，不宜停留在空泛感叹。",
+      "modelSentence": "面对百年未有之大变局加速演进，要增强忧患意识，在危机中育新机、于变局中开新局。",
+      "examFunction": "开头背景/提出战略",
+      "commonErrors": "必须与具体挑战、机遇和政策行动相连，避免泛泛而谈。",
+      "sourceKeys": "IMG3",
+      "year": 2020,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "面对百年未有之大变局加速演进，要增强忧患意识，在危机中育新机、于变局中开新局。",
+          "highlightTerm": "百年未有之大变局",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG16-02",
+      "hotTerm": "百年未有之大变局",
+      "collocation": "准确识变、科学应变、主动求变",
+      "theme": "国际形势/战略判断",
+      "meaning": "概括国际力量对比、科技革命、全球治理和风险格局深刻变化的长期历史背景。",
+      "usageContext": "用于申论开头形势判断和战略选择；后接中国行动，不宜停留在空泛感叹。",
+      "modelSentence": "面对百年未有之大变局加速演进，要增强忧患意识，在危机中育新机、于变局中开新局。",
+      "examFunction": "开头背景/提出战略",
+      "commonErrors": "必须与具体挑战、机遇和政策行动相连，避免泛泛而谈。",
+      "sourceKeys": "IMG3",
+      "year": 2020,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "面对百年未有之大变局加速演进，要增强忧患意识，在危机中育新机、于变局中开新局。",
+          "highlightTerm": "百年未有之大变局",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG16-03",
+      "hotTerm": "百年未有之大变局",
+      "collocation": "在变局中开新局",
+      "theme": "国际形势/战略判断",
+      "meaning": "概括国际力量对比、科技革命、全球治理和风险格局深刻变化的长期历史背景。",
+      "usageContext": "用于申论开头形势判断和战略选择；后接中国行动，不宜停留在空泛感叹。",
+      "modelSentence": "面对百年未有之大变局加速演进，要增强忧患意识，在危机中育新机、于变局中开新局。",
+      "examFunction": "开头背景/提出战略",
+      "commonErrors": "必须与具体挑战、机遇和政策行动相连，避免泛泛而谈。",
+      "sourceKeys": "IMG3",
+      "year": 2020,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "面对百年未有之大变局加速演进，要增强忧患意识，在危机中育新机、于变局中开新局。",
+          "highlightTerm": "百年未有之大变局",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG17-01",
+      "hotTerm": "创新驱动",
+      "collocation": "实施创新驱动发展战略",
+      "theme": "科技创新/经济发展",
+      "meaning": "把科技创新、制度创新和管理创新作为经济社会发展的主要动力。",
+      "usageContext": "用于产业升级、乡村振兴、公共服务和治理现代化；可与人才、教育、改革相配套。",
+      "modelSentence": "坚持创新驱动发展，促进科技创新与产业创新深度融合，培育发展新动能。",
+      "examFunction": "提出发展动力/论证路径",
+      "commonErrors": "创新驱动不等于只讲技术，还包括制度、组织和商业模式创新。",
+      "sourceKeys": "IMG5",
+      "year": 2016,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG5",
+          "title": "2016年政府工作报告（文字实录）",
+          "organization": "国务院（中国政府网）",
+          "date": "2016-03-05",
+          "url": "https://app.www.gov.cn/govdata/gov/201603/05/372324/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "坚持创新驱动发展，促进科技创新与产业创新深度融合，培育发展新动能。",
+          "highlightTerm": "创新驱动",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG17-02",
+      "hotTerm": "创新驱动",
+      "collocation": "创新驱动发展",
+      "theme": "科技创新/经济发展",
+      "meaning": "把科技创新、制度创新和管理创新作为经济社会发展的主要动力。",
+      "usageContext": "用于产业升级、乡村振兴、公共服务和治理现代化；可与人才、教育、改革相配套。",
+      "modelSentence": "坚持创新驱动发展，促进科技创新与产业创新深度融合，培育发展新动能。",
+      "examFunction": "提出发展动力/论证路径",
+      "commonErrors": "创新驱动不等于只讲技术，还包括制度、组织和商业模式创新。",
+      "sourceKeys": "IMG5",
+      "year": 2016,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG5",
+          "title": "2016年政府工作报告（文字实录）",
+          "organization": "国务院（中国政府网）",
+          "date": "2016-03-05",
+          "url": "https://app.www.gov.cn/govdata/gov/201603/05/372324/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "坚持创新驱动发展，促进科技创新与产业创新深度融合，培育发展新动能。",
+          "highlightTerm": "创新驱动",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG17-03",
+      "hotTerm": "创新驱动",
+      "collocation": "以创新驱动转型升级",
+      "theme": "科技创新/经济发展",
+      "meaning": "把科技创新、制度创新和管理创新作为经济社会发展的主要动力。",
+      "usageContext": "用于产业升级、乡村振兴、公共服务和治理现代化；可与人才、教育、改革相配套。",
+      "modelSentence": "坚持创新驱动发展，促进科技创新与产业创新深度融合，培育发展新动能。",
+      "examFunction": "提出发展动力/论证路径",
+      "commonErrors": "创新驱动不等于只讲技术，还包括制度、组织和商业模式创新。",
+      "sourceKeys": "IMG5",
+      "year": 2016,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG5",
+          "title": "2016年政府工作报告（文字实录）",
+          "organization": "国务院（中国政府网）",
+          "date": "2016-03-05",
+          "url": "https://app.www.gov.cn/govdata/gov/201603/05/372324/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "坚持创新驱动发展，促进科技创新与产业创新深度融合，培育发展新动能。",
+          "highlightTerm": "创新驱动",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG18-01",
+      "hotTerm": "数字技术赋能",
+      "collocation": "数字技术赋能产业升级",
+      "theme": "数字经济/治理现代化",
+      "meaning": "用数据、云计算、人工智能、工业互联网等数字技术改善生产、服务和治理效率。",
+      "usageContext": "用于数字经济、智慧城市、数字乡村和公共服务，需同步写数据安全与数字鸿沟。",
+      "modelSentence": "以数字技术赋能传统产业和基层治理，推动业务流程再造与公共服务提质增效。",
+      "examFunction": "提出技术路径/分析成效",
+      "commonErrors": "不能把上平台、建系统等同于赋能，要说明场景、机制和效果。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以数字技术赋能传统产业和基层治理，推动业务流程再造与公共服务提质增效。",
+          "highlightTerm": "数字技术赋能",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG18-02",
+      "hotTerm": "数字技术赋能",
+      "collocation": "数字技术赋能基层治理",
+      "theme": "数字经济/治理现代化",
+      "meaning": "用数据、云计算、人工智能、工业互联网等数字技术改善生产、服务和治理效率。",
+      "usageContext": "用于数字经济、智慧城市、数字乡村和公共服务，需同步写数据安全与数字鸿沟。",
+      "modelSentence": "以数字技术赋能传统产业和基层治理，推动业务流程再造与公共服务提质增效。",
+      "examFunction": "提出技术路径/分析成效",
+      "commonErrors": "不能把上平台、建系统等同于赋能，要说明场景、机制和效果。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以数字技术赋能传统产业和基层治理，推动业务流程再造与公共服务提质增效。",
+          "highlightTerm": "数字技术赋能",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG18-03",
+      "hotTerm": "数字技术赋能",
+      "collocation": "数字技术与实体经济深度融合",
+      "theme": "数字经济/治理现代化",
+      "meaning": "用数据、云计算、人工智能、工业互联网等数字技术改善生产、服务和治理效率。",
+      "usageContext": "用于数字经济、智慧城市、数字乡村和公共服务，需同步写数据安全与数字鸿沟。",
+      "modelSentence": "以数字技术赋能传统产业和基层治理，推动业务流程再造与公共服务提质增效。",
+      "examFunction": "提出技术路径/分析成效",
+      "commonErrors": "不能把上平台、建系统等同于赋能，要说明场景、机制和效果。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以数字技术赋能传统产业和基层治理，推动业务流程再造与公共服务提质增效。",
+          "highlightTerm": "数字技术赋能",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG19-01",
+      "hotTerm": "畅通国民经济循环",
+      "collocation": "畅通国民经济循环",
+      "theme": "经济运行/新发展格局",
+      "meaning": "打通经济运行各环节和堵点，使生产、分配、流通、消费相互衔接、顺畅运转。",
+      "usageContext": "用于扩大内需、统一大市场、营商环境和产业链安全。",
+      "modelSentence": "以统一市场规则和降低物流成本为抓手，畅通国民经济循环、增强发展内生动力。",
+      "examFunction": "分析问题/提出对策",
+      "commonErrors": "不要只写“扩大消费”，还要写供给、流通和制度堵点。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以统一市场规则和降低物流成本为抓手，畅通国民经济循环、增强发展内生动力。",
+          "highlightTerm": "畅通国民经济循环",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG19-02",
+      "hotTerm": "畅通国民经济循环",
+      "collocation": "畅通产业链供应链循环",
+      "theme": "经济运行/新发展格局",
+      "meaning": "打通经济运行各环节和堵点，使生产、分配、流通、消费相互衔接、顺畅运转。",
+      "usageContext": "用于扩大内需、统一大市场、营商环境和产业链安全。",
+      "modelSentence": "以统一市场规则和降低物流成本为抓手，畅通国民经济循环、增强发展内生动力。",
+      "examFunction": "分析问题/提出对策",
+      "commonErrors": "不要只写“扩大消费”，还要写供给、流通和制度堵点。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以统一市场规则和降低物流成本为抓手，畅通国民经济循环、增强发展内生动力。",
+          "highlightTerm": "畅通国民经济循环",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG19-03",
+      "hotTerm": "畅通国民经济循环",
+      "collocation": "促进生产、分配、流通、消费循环",
+      "theme": "经济运行/新发展格局",
+      "meaning": "打通经济运行各环节和堵点，使生产、分配、流通、消费相互衔接、顺畅运转。",
+      "usageContext": "用于扩大内需、统一大市场、营商环境和产业链安全。",
+      "modelSentence": "以统一市场规则和降低物流成本为抓手，畅通国民经济循环、增强发展内生动力。",
+      "examFunction": "分析问题/提出对策",
+      "commonErrors": "不要只写“扩大消费”，还要写供给、流通和制度堵点。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "以统一市场规则和降低物流成本为抓手，畅通国民经济循环、增强发展内生动力。",
+          "highlightTerm": "畅通国民经济循环",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG20-01",
+      "hotTerm": "筑牢理想信念根基",
+      "collocation": "筑牢理想信念根基",
+      "theme": "党建/思想建设",
+      "meaning": "通过理论学习、党性教育和实践锻炼强化政治信仰、价值追求和责任担当。",
+      "usageContext": "用于党建、干部队伍、主题教育和青年成长；语体庄重，常与“为民服务”相连。",
+      "modelSentence": "加强理论武装和实践历练，引导党员干部筑牢理想信念根基、站稳人民立场。",
+      "examFunction": "队伍建设/价值引领",
+      "commonErrors": "应配合教育、制度和实践载体，避免只写抽象表态。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "加强理论武装和实践历练，引导党员干部筑牢理想信念根基、站稳人民立场。",
+          "highlightTerm": "筑牢理想信念根基",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG20-02",
+      "hotTerm": "筑牢理想信念根基",
+      "collocation": "坚定理想信念",
+      "theme": "党建/思想建设",
+      "meaning": "通过理论学习、党性教育和实践锻炼强化政治信仰、价值追求和责任担当。",
+      "usageContext": "用于党建、干部队伍、主题教育和青年成长；语体庄重，常与“为民服务”相连。",
+      "modelSentence": "加强理论武装和实践历练，引导党员干部筑牢理想信念根基、站稳人民立场。",
+      "examFunction": "队伍建设/价值引领",
+      "commonErrors": "应配合教育、制度和实践载体，避免只写抽象表态。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "加强理论武装和实践历练，引导党员干部筑牢理想信念根基、站稳人民立场。",
+          "highlightTerm": "筑牢理想信念根基",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG20-03",
+      "hotTerm": "筑牢理想信念根基",
+      "collocation": "补足精神之钙",
+      "theme": "党建/思想建设",
+      "meaning": "通过理论学习、党性教育和实践锻炼强化政治信仰、价值追求和责任担当。",
+      "usageContext": "用于党建、干部队伍、主题教育和青年成长；语体庄重，常与“为民服务”相连。",
+      "modelSentence": "加强理论武装和实践历练，引导党员干部筑牢理想信念根基、站稳人民立场。",
+      "examFunction": "队伍建设/价值引领",
+      "commonErrors": "应配合教育、制度和实践载体，避免只写抽象表态。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "加强理论武装和实践历练，引导党员干部筑牢理想信念根基、站稳人民立场。",
+          "highlightTerm": "筑牢理想信念根基",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG21-01",
+      "hotTerm": "净化修复政治生态",
+      "collocation": "净化政治生态",
+      "theme": "全面从严治党/监督",
+      "meaning": "通过严明纪律、正风肃纪、惩治腐败和制度建设，改善党内政治生活和权力运行环境。",
+      "usageContext": "用于全面从严治党、反腐倡廉、干部监督和作风建设。",
+      "modelSentence": "坚持严的基调、严的措施、严的氛围，持续净化修复政治生态。",
+      "examFunction": "监督治理/提出保障",
+      "commonErrors": "“修复”通常用于已有问题的政治生态，不宜随意替代“建设”。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "坚持严的基调、严的措施、严的氛围，持续净化修复政治生态。",
+          "highlightTerm": "净化修复政治生态",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG21-02",
+      "hotTerm": "净化修复政治生态",
+      "collocation": "修复政治生态",
+      "theme": "全面从严治党/监督",
+      "meaning": "通过严明纪律、正风肃纪、惩治腐败和制度建设，改善党内政治生活和权力运行环境。",
+      "usageContext": "用于全面从严治党、反腐倡廉、干部监督和作风建设。",
+      "modelSentence": "坚持严的基调、严的措施、严的氛围，持续净化修复政治生态。",
+      "examFunction": "监督治理/提出保障",
+      "commonErrors": "“修复”通常用于已有问题的政治生态，不宜随意替代“建设”。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "坚持严的基调、严的措施、严的氛围，持续净化修复政治生态。",
+          "highlightTerm": "净化修复政治生态",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG21-03",
+      "hotTerm": "净化修复政治生态",
+      "collocation": "营造风清气正政治生态",
+      "theme": "全面从严治党/监督",
+      "meaning": "通过严明纪律、正风肃纪、惩治腐败和制度建设，改善党内政治生活和权力运行环境。",
+      "usageContext": "用于全面从严治党、反腐倡廉、干部监督和作风建设。",
+      "modelSentence": "坚持严的基调、严的措施、严的氛围，持续净化修复政治生态。",
+      "examFunction": "监督治理/提出保障",
+      "commonErrors": "“修复”通常用于已有问题的政治生态，不宜随意替代“建设”。",
+      "sourceKeys": "S16",
+      "year": 2021,
+      "sourceEvidence": [
+        {
+          "sourceKey": "S16",
+          "title": "中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见",
+          "organization": "中共中央、国务院/中国政府网",
+          "date": "2021-02-21",
+          "url": "https://app.www.gov.cn/govdata/gov/202102/21/468567/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "坚持严的基调、严的措施、严的氛围，持续净化修复政治生态。",
+          "highlightTerm": "净化修复政治生态",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG22-01",
+      "hotTerm": "树立和践行正确政绩观",
+      "collocation": "树立和践行正确政绩观",
+      "theme": "干部作风/绩效治理",
+      "meaning": "把为民造福、打基础利长远、经得起历史和群众检验作为政绩标准，反对形式主义和短期冲动。",
+      "usageContext": "用于干部考核、基层减负、乡村振兴、生态保护和高质量发展。",
+      "modelSentence": "完善考核评价和问责容错机制，引导干部树立和践行正确政绩观，做出经得起检验的实绩。",
+      "examFunction": "提出考核机制/作风建设",
+      "commonErrors": "不能只批评“唯GDP”，要提出科学考核、群众评价和责任追踪。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "完善考核评价和问责容错机制，引导干部树立和践行正确政绩观，做出经得起检验的实绩。",
+          "highlightTerm": "树立和践行正确政绩观",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG22-02",
+      "hotTerm": "树立和践行正确政绩观",
+      "collocation": "为民造福的政绩观",
+      "theme": "干部作风/绩效治理",
+      "meaning": "把为民造福、打基础利长远、经得起历史和群众检验作为政绩标准，反对形式主义和短期冲动。",
+      "usageContext": "用于干部考核、基层减负、乡村振兴、生态保护和高质量发展。",
+      "modelSentence": "完善考核评价和问责容错机制，引导干部树立和践行正确政绩观，做出经得起检验的实绩。",
+      "examFunction": "提出考核机制/作风建设",
+      "commonErrors": "不能只批评“唯GDP”，要提出科学考核、群众评价和责任追踪。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "完善考核评价和问责容错机制，引导干部树立和践行正确政绩观，做出经得起检验的实绩。",
+          "highlightTerm": "树立和践行正确政绩观",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    },
+    {
+      "id": "IMG22-03",
+      "hotTerm": "树立和践行正确政绩观",
+      "collocation": "重实绩、重实干、重实效",
+      "theme": "干部作风/绩效治理",
+      "meaning": "把为民造福、打基础利长远、经得起历史和群众检验作为政绩标准，反对形式主义和短期冲动。",
+      "usageContext": "用于干部考核、基层减负、乡村振兴、生态保护和高质量发展。",
+      "modelSentence": "完善考核评价和问责容错机制，引导干部树立和践行正确政绩观，做出经得起检验的实绩。",
+      "examFunction": "提出考核机制/作风建设",
+      "commonErrors": "不能只批评“唯GDP”，要提出科学考核、群众评价和责任追踪。",
+      "sourceKeys": "IMG3",
+      "year": 2022,
+      "sourceEvidence": [
+        {
+          "sourceKey": "IMG3",
+          "title": "政府工作报告（全文）",
+          "organization": "国务院（中国政府网）",
+          "date": "2022-03-12",
+          "url": "https://app.www.gov.cn/govdata/gov/202203/12/482766/article.html",
+          "authorityLevel": "A",
+          "verificationStatus": "已核验",
+          "excerpt": "完善考核评价和问责容错机制，引导干部树立和践行正确政绩观，做出经得起检验的实绩。",
+          "highlightTerm": "树立和践行正确政绩观",
+          "evidenceKind": "database_example",
+          "note": "当前数据库保留审校例句和权威来源元数据；公开文章正文未随链接稳定保存，避免将搜索页误作原文。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "zt-backend",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "node --watch src/server.js",
+        "start": "node src/server.js",
+        "test": "node --test test/*.test.js",
+        "migrate": "node src/infrastructure/migrate.js",
+        "ingest": "node src/ingest.js",
+        "hotspots:import": "node scripts/hotspots/import-local-corpus.mjs",
+        "hotspots:verify": "node scripts/hotspots/verify-local-corpus.mjs",
+        "hotspots:export": "node scripts/hotspots/export-static-corpus.mjs",
+        "words:build": "node scripts/words/build-exam-corpus.mjs",
+        "dictionary:export": "node scripts/export-dictionary-static.mjs",
+        "deploy": "bash ../deploy.sh"
+    },
+    "dependencies": {
+        "axios": "^1.17.0",
+        "better-sqlite3": "^11.7.0",
+        "cheerio": "^1.2.0",
+        "cookie-parser": "^1.4.7",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.21.2",
+        "express-rate-limit": "^8.5.2",
+        "express-validator": "^7.3.2",
+        "helmet": "^8.2.0",
+        "hpp": "^0.2.3",
+        "node-fetch": "^3.3.2",
+        "pg": "^8.16.3",
+        "redis": "^5.8.2"
+    }
+}
